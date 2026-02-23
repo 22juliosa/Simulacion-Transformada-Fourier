@@ -1,6 +1,6 @@
 # ---------------------------------------------------------
 # Simulación y análisis de señales usando Transformada de Fourier
-# Autor: [Nombre del estudiante]
+# Autor: [Blanca Estela González Hernández]
 # ---------------------------------------------------------
 
 import numpy as np
@@ -76,3 +76,4 @@ plt.title("Magnitud Espectro - Señal Senoidal")
 plt.xlabel("Frecuencia (Hz)")
 plt.ylabel("Magnitud")
 plt.show()
+
